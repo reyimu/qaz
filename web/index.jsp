@@ -1,6 +1,6 @@
 <!DOCTYPE >
 <html>
-<head>
+<head>  
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-widh,initial-scale=1,maximum-scale=1">
   <meta http-equiv="X-UA-Compatible" content="aqua">
@@ -84,7 +84,7 @@
       <div class="card grid">
         <img src="img/5.jpg" />
         <img src="img/6.jpg" />
-        <img src="img/7.jpg" />   //qwegrhtrsg
+        <img src="img/7.jpg" />   
         <img src="img/1.jpg" />
       </div>
     </div>
