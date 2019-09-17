@@ -84,7 +84,7 @@
       <div class="card grid">
         <img src="img/5.jpg" />
         <img src="img/6.jpg" />
-        <img src="img/7.jpg" />
+        <img src="img/7.jpg" />   //qwegrhtrsg
         <img src="img/1.jpg" />
       </div>
     </div>
